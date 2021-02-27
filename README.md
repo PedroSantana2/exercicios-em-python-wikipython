@@ -2,30 +2,27 @@
  ## Lista de exercícios retirada do site: https://wiki.python.org.br/ListaDeExercicios
  ### Exercícios concluídos:
  **Primeira lista:**
- - [x] 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela. 
+ - [x] 1. [Faça um Programa que mostre a mensagem "Alo mundo" na tela.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex1.py)
  ---
- - [x] 2. Faça um Programa que peça um número e então mostre a mensagem: O número informado foi [número].
+ - [x] 2. [Faça um Programa que peça um número e então mostre a mensagem: O número informado foi [número].](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex2.py)
  ---
- - [x] 3. Faça um Programa que peça dois números e imprima a soma.
+ - [x] 3. [Faça um Programa que peça dois números e imprima a soma.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex3.py)
  ---
- - [x] 4. Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+ - [x] 4. [Faça um Programa que peça as 4 notas bimestrais e mostre a média.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex4.py)
  ---
- - [x] 5. Faça um Programa que converta metros para centímetros.
+ - [x] 5. [Faça um Programa que converta metros para centímetros.]https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex5.py)
  ---
- - [x] 6. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+ - [x] 6. [Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex6.py)
  ---
- - [x] 7. Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+ - [x] 7. [Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex7.py)
  ---
- - [ ] 8. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+ - [x] 8. [Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex8.py)
  ---
- - [ ] 9. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius. C = 5 * ((F-32) / 9).
+ - [x] 9. [Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius. C = 5 * ((F-32) / 9).](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex9.py)
  ---
- - [ ] 10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
+ - [x] 10. [Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex10.py)
  ---
- - [ ] 11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
-o produto do dobro do primeiro com metade do segundo .
-a soma do triplo do primeiro com o terceiro.
-o terceiro elevado ao cubo.
+ - [x] 11. [Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre: o produto do dobro do primeiro com metade do segundo. A soma do triplo do primeiro com o terceiro. O terceiro elevado ao cubo.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex11.py)
 ---
  - [ ] 12. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
  ---
