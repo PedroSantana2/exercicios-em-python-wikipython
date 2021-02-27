@@ -1,7 +1,5 @@
 # Exercícios utilizando Python!
-***
  ## Lista de exercícios retirada do site: https://wiki.python.org.br/ListaDeExercicios
- ---
  ### Exercícios concluídos:
  **Primeira lista:**
  - [x] 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela. 
