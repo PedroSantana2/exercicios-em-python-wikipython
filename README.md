@@ -1,6 +1,6 @@
 # Exercícios utilizando Python!
- Lista de exercícios retirada do site: https://wiki.python.org.br/ListaDeExercicios
- Exercícios concluídos:
+ ## Lista de exercícios retirada do site: https://wiki.python.org.br/ListaDeExercicios
+ ### Exercícios concluídos:
  **Primeira lista**
  - [x] Faça um Programa que mostre a mensagem "Alo mundo" na tela.
  - [x] Faça um Programa que peça um número e então mostre a mensagem: O número informado foi [número].
