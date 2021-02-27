@@ -10,7 +10,7 @@
  ---
  - [x] 4. [Faça um Programa que peça as 4 notas bimestrais e mostre a média.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex4.py)
  ---
- - [x] 5. [Faça um Programa que converta metros para centímetros.]https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex5.py)
+ - [x] 5. [Faça um Programa que converta metros para centímetros.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex5.py)
  ---
  - [x] 6. [Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.](https://github.com/PedroSantana2/exercicios-em-python/blob/main/primeira_lista/ex6.py)
  ---
