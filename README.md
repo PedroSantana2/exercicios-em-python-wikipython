@@ -1,4 +1,4 @@
-#:hammer_and_wrench: Exercícios utilizando Python!
+# :hammer_and_wrench: Exercícios utilizando Python!
  ## Lista de exercícios retirada do site: https://wiki.python.org.br/ListaDeExercicios
  ### Exercícios concluídos:
  **Primeira lista:**
