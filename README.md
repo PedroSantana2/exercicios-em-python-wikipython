@@ -3,5 +3,8 @@
 ### Exercícios concluídos:
 - [x] [1ª Lista.](https://github.com/PedroSantana2/exercicios-em-python/tree/main/primeira_lista)
 ---
-
+- [x] [2ª Lista.]
+---
+- [x] [3ª Lista.]
+---
 
